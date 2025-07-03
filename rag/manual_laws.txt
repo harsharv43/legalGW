@@ -1,0 +1,4 @@
+https://www.indiacode.nic.in/handle/123456789/2157?sam_handle=123456789/1362
+https://www.indiacode.nic.in/handle/123456789/2158?sam_handle=123456789/1362
+https://www.indiacode.nic.in/handle/123456789/2159?sam_handle=123456789/1362
+# Add more URLs for specific Acts/Bills as needed 
