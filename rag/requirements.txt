@@ -7,4 +7,5 @@ python-dotenv
 pypdf
 httpx
 beautifulsoup4
-requests 
+requests
+python-multipart 
